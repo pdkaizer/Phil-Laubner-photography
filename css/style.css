@@ -32,3 +32,8 @@ header {
 	margin-right:20px;
 	font-size:25px;
 }
+
+.home-journal h2, h3 {
+	font-style: normal;
+	font-weight: 400;
+}
