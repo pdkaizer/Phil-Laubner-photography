@@ -17,7 +17,7 @@ i:before,.glyphicons i:before{line-height:55px!important}
 .white-content *,.white-content,.white-content a{color:#fff}
 
 body {
-	background:url(/images/bg.png) repeat-x;
+	background:url(../images/bg.png) repeat-x;
 	font-family: "freight-sans-pro";
 	font-size: 100%;
 	line-height: 145%;
