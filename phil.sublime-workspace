@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4798,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/peterkaizer/Dropbox/_sites/Phil-Laubner-photography/interior.html",
+		"/Users/peterkaizer/Dropbox/js/jquery-backstretch/examples/click.html",
+		"/Users/peterkaizer/Dropbox/_sites/ABC -Move/wp-config-archive.php",
+		"/Users/peterkaizer/Dropbox/_sites/ABC-WP-Theme/sidebar-curriculum.php",
+		"/Users/peterkaizer/Dropbox/_sites/ABC-WP-Theme/sidebar-blog-left.php",
+		"/Users/peterkaizer/Desktop/index.cfm",
+		"/Users/peterkaizer/Dropbox/_sites/rock-hammer-template/css/partials/_layout.scss",
+		"/Users/peterkaizer/Dropbox/_sites/rock-hammer-template/partials/head/_head-typekit.html",
+		"/Users/peterkaizer/Dropbox/_sites/rock-hammer-template/original.html",
+		"/Users/peterkaizer/Dropbox/_sites/pdk-2013/assets/css/_mixins.scss",
+		"/Users/peterkaizer/Dropbox/_sites/pdk-2013/assets/css/_normalize.scss",
+		"/Users/peterkaizer/Dropbox/_sites/pdk-2013/assets/css/_helper-classes.scss",
+		"/Users/peterkaizer/Dropbox/_sites/pdk-2013/includes/_header/_head.html",
+		"/Users/peterkaizer/Dropbox/_sites/pdk-2013/assets/css/_setup.scss",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/assets/css/style.scss",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/assets/css/_grid.scss",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/includes/_header/_header.html",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/includes/_header/_elements/_analytics.html",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/includes/_footer/_footer.html",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/includes/_footer/_elements/_analytics.html",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-rock-hammer/ignore.txt",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/assets/css/_normalize.scss",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/assets/css/_print-styles.scss",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/assets/css/_typography.scss",
+		"/Users/peterkaizer/Dropbox/_sites/hammer-test-2013-06/assets/css/_code.scss",
+		"/Users/peterkaizer/Dropbox/_sites/so-charmed-wp-theme/single-default.php",
+		"/Users/peterkaizer/Dropbox/_sites/so-charmed-wp-theme/single-default-2013-06.php",
+		"/Users/peterkaizer/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/peterkaizer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Enhanced HTML and CFML/EnhancedHTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1104.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
