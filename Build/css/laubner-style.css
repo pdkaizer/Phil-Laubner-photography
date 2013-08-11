@@ -177,7 +177,7 @@ textarea {
     page-break-after: avoid; } }
 body {
   margin: 0;
-  font-family: "freight-sans-pro", sans-serif;
+  font-family: "adelle-sans", sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333333;
@@ -534,7 +534,7 @@ a.text-success:focus {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-family: inherit;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility; }
@@ -784,7 +784,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "freight-sans-pro", sans-serif; }
+  font-family: "adelle-sans", sans-serif; }
 
 label {
   display: block;
@@ -3507,7 +3507,7 @@ input[type="submit"].btn {
   .navbar-search .search-query {
     margin-bottom: 0;
     padding: 4px 14px;
-    font-family: "freight-sans-pro", sans-serif;
+    font-family: "adelle-sans", sans-serif;
     font-size: 13px;
     font-weight: normal;
     line-height: 1;
